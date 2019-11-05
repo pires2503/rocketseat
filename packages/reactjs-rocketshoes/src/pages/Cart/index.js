@@ -14,10 +14,12 @@ export default function Cart() {
       <ProductTable>
         <thead>
           <tr>
+            {/* eslint-disable-next-line  */}
             <th />
             <th>PRODUTO</th>
             <th>QTD</th>
             <th>SUBTOTAL</th>
+            {/* eslint-disable-next-line  */}
             <th />
           </tr>
         </thead>
